@@ -1,5 +1,5 @@
 ---
-title: Home
+title: Good Fin
 sections:
   - section_id: hero
     type: section_hero
